@@ -1,0 +1,17 @@
+{
+  "name": "mariana-trench-syntax",
+  "theme": "syntax",
+  "version": "0.8.5",
+  "description": "Inspired by the deep, just trying to get deeper.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ocean",
+    "dark"
+  ],
+  "repository": "https://github.com/kacarott/mariana-trench-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
